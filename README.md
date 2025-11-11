@@ -1,6 +1,6 @@
 
 
-### 🚀 Passionate Full-Stack Developer | Backend Architect | System Integrator
+### 🚀 Full-Stack Developer
 
 안녕하세요, 개발자 김대환입니다.
 특정 분야에 국한되지 않고, 여러 프로그래밍 언어와 네트워크, 보안 등 
@@ -20,6 +20,7 @@
 ### ⚙️ Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![php](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![AngularJS](https://img.shields.io/badge/AngularJS-E23237?logo=angularjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
